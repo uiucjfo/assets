@@ -5,3 +5,5 @@
 `https://cdn.jsdelivr.net/gh/uiucjfo/assets/logos/jfo-logo-h.png`
 
 `https://cdn.jsdelivr.net/gh/uiucjfo/assets/logos/jfo-logo-h-transp.png`
+
+`https://cdn.jsdelivr.net/gh/uiucjfo/assets/logos/jfo-logo-h-white-transp.png`
